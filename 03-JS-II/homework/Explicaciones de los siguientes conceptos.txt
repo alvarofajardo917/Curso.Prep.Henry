@@ -1,0 +1,18 @@
+El bucle for tiene un similar con la instrucción if, tenemos for 
+y entre paréntesis primero la variable, luego la expresión condicional
+ y luego incrementar la variable para luego imprimir según la condición.
+
+
+El && es un operador lógico "Y" ("and"), evalúa las dos condiciones
+si ambos son true retorna verdadero sino es falso.
+
+
+
+El || es un operador lógico "O" ("OR"), lo cual determina si uno de las 
+expresiones es true devuelve true, si ambos son false
+devuelve false, si ambos son true devuelve true.
+
+
+El ! es el operador lógico "NOT" ("NO"),se puede aplicar en una 
+condición de negación o diferente de "!=" , o devuelve lo contrario
+de un booleano.
