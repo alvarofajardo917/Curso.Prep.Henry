@@ -1,0 +1,24 @@
+VARIABLES son los que almacenan un valor para usarme más tarde, en javascript para crear una variable utilizamos la clave var que puede modificar más adelante, también se tiene la variable const que esta no se puede cambiar porque es una constante
+STRING es un tipo de variable para representar los datos textuales por ejemplo se puede definir en una variable: 
+var estoesunstring = “hola a todos”
+
+FUNCIONES (ARGUMENTOS, RETURN) son objetos que se pueden invocar , en el Argumento si agregamos una variable en la función se puede usar esta variable dentro de nuestra función y cuando la llamamos se puede otorgar un valor es decir nombre =’Martin’
+function logHola(nombre){
+        console.log(‘Hola,’ + nombre);
+}
+logHola(‘Martin’);
+
+ en return es para devolver algo dentro la función, es decir
+function dividirDosNumeros(a,b){
+     var producto = a / b;
+     return producto;
+}
+dividirDosNumero(6,3);   //2
+
+
+DECLARACIONES IF es para evaluar una condición dentro de los paréntesis, por ejemplo
+ if(1+1 ===2){
+    console.log(‘La expresión es verdadera’);
+}
+VALORES BOOLEANOS(TRUE,FALSE) esencialmente indica que tiene dos opciones ,activar o desactivar ,0 o 1 , verdadero o falso
+
