@@ -1,0 +1,4 @@
+ARRAYS son contenedores de almacenamiento de datos, donde la variable
+pueden ir dentro de ella es decir dentro de [],también pueden ser 
+separados por una ‘’,’’’ y pueden ser datos numéricos, booleanos, 
+string, funciones.
