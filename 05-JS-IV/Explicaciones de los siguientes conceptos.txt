@@ -1,0 +1,19 @@
+Objeto es una colección de propiedas 
+
+Propiedad es una asociación entre un nombre (o clave) y un valor
+
+ejemplo en propiedades se puede tener
+nombre
+trabajo
+edad 
+es decir, la información una persona o algo 
+
+Métodos las funciones guardadas en un objeto se denominan métodos
+se puede establecer una clave para un nombre y el valor para una función
+
+Bucles for...in comienza igual pero dentro el paréntesis se declara
+una variable, la palabra clave in y el nombre del objeto 
+
+La notación con corchetes, a diferencia de la notación con punto, puede 
+usarse con variables. Si usas una variable con notación con corchetes,
+ la variable debe hacer referencia a una string.
