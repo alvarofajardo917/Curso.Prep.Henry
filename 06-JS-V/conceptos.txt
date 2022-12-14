@@ -1,0 +1,9 @@
+prototype Los metodos de prototype tienen acceso a la palabra
+ clave this y. al igual que antes, siempre apuntará al objeto 
+(a la izquierda del punto)que lo está llamando
+
+Constructors El constructor del __proto__ esta ligado a Alumno y luego al Object Object de JS. Pero el
+método saludar esta en el objeto prototype de Personas... , y esta perfecto, asi es como deberia
+funcionar, las instancias acceden al __proto__ que fue vinculado por el constructor para ver que
+métodos tienen. Nuestro problema es que al llamar a Persona con call en vez de con el método
+new no se esta haciendo ese vinculo en el que Persona.prototype se mete en nuestro Prototype
